@@ -1,0 +1,11 @@
+/* ---------- HERO SECTION BACKGROUND ---------- */
+.hero {
+    height: 90vh;
+    background: url('https://images.unsplash.com/photo-1503264116251-35a269479413') no-repeat center/cover;
+}
+
+/* Shadow card hover effect */
+.card:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
